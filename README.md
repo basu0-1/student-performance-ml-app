@@ -108,7 +108,7 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**YBASUMATI PRADHAN**  
+**BASUMATI PRADHAN**  
 Aspiring Data Scientist  
 
 ---
