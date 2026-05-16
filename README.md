@@ -59,21 +59,6 @@ The model is trained on student performance data and predicts outcomes based on 
 
 ---
 
-## 📂 Project Structure
-student-performance-ml/
-│
-├── app.py
-├── requirements.txt
-├── logs.csv
-├── predictions.csv
-│
-├── model/
-│ ├── model.pkl
-│ └── features.pkl
-
-
----
-
 ## 📊 How It Works
 
 1. User enters the application through a login interface  
